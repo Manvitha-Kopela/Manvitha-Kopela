@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through linkedin: https://www.linkedin.com/in/manvitha-kopela?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Mail: r220772@rguktrkv.ac.in
+- Mail: manvithakopela47@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
