@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manvitha-Kopela
+- 👋 Hi, I’m @Kopela-Manvitha
 - 👀 I’m interested in doing projects
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
